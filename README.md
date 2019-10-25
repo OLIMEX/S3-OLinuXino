@@ -13,7 +13,7 @@ This board has:
 - LCD connector for LCD-OLinuXino
 - MIPI camera connector
 - CSI camera connector
-- Dimensions: 80 x 39 mm
+- Dimensions: 60 x 50 mm
 
 # License
 - Hardware is with CERN OHL v1.2 license
