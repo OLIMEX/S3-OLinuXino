@@ -1,5 +1,5 @@
 # S3-OLinuXino
-IP Camera with S3 SOC from Allwinner, PoE Gigabit, LCD, micro SD, Flash
+IP Camera with S3 SOC from Allwinner, PoE 100Mbit, LCD, micro SD, Flash
 
 This board has:
 - Allwinner S3 Cortex-A7 running at 1.2Ghz
